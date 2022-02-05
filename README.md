@@ -5,5 +5,3 @@ Also user is allowed to put start and end point where they want to find the path
 I also have upload pictures of the output for three different environment.
 
 
-<img src = "./pictures/environment 1.png" with = 600 height = 600>
-
